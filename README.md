@@ -1,7 +1,7 @@
-vikramtiwari.github.io
+rajsharma55.github.io
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for Raj Sharma's Website
 
 ## How to get your own?
 1. Fork the repo
